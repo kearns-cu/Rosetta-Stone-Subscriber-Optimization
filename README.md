@@ -1,4 +1,4 @@
-# MGSC410 Final Project
+# Rosetta Stone Subscriber Data Business Analysis
 
 This repository contains the final project for the MGSC410 course. The project aim was to analyze Rosetta Stone data to understand subscribers and provide optimization recommendations for subscriber growth. 
  
